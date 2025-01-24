@@ -17,3 +17,12 @@ Manual Entry: Data was manually input into the file. While consistent with actua
 Data Storage: All compiled data is stored in the "FINANZAS" tab for further analysis and visualization.
 A copy of the data was done to save the raw data and it is called "raw data"
 
+# Steps
+1. Data were observed carefully, searching for inconsistencie or blanks.
+2. ETL: (Extract, Transformed & Load)  Data through Power Query to add minor detailed columns
+     Creation of Year & Month Columns (dates) with formulas
+     Create Dynamic Tables
+     Filling gaps
+4. Description Analysis
+5. Create Dashboard replicating the information of the tables with the most important information available.
+
