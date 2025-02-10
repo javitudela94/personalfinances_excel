@@ -23,6 +23,11 @@ A copy of the data was done to save the raw data and it is called "raw data"
      Creation of Year & Month Columns (dates) with formulas
      Create Dynamic Tables
      Filling gaps
+   
 4. Description Analysis
 5. Create Dashboard replicating the information of the tables with the most important information available.
+        Dashboard contains 3 different tabs. Each tab has resumee table, different graphs explaining situation of the personal finances. 
+          Ingresos --> coloured in green.  Gains
+             Gastos --> coloured in red. Loses
+                  Ahorro  --> coloured in grey. Gains - Loses
 
